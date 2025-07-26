@@ -1,0 +1,15 @@
+{
+    "name": "itrax/practice25",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Itrax\\Practice25\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lojainsaadawi"
+        }
+    ],
+    "require": {}
+}
